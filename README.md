@@ -23,10 +23,14 @@
 
 ### <img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%23a78bfa" width="20" height="20" /> Featured Projects
 
-- <img src="https://api.iconify.design/fa6-solid/camera.svg?color=%233399ff" width="17" height="17" /> **Love Signs** — WebCam AI application.
-- <img src="https://api.iconify.design/fa6-solid/language.svg?color=%23a78bfa" width="17" height="17" /> **LinguaFlow** — Web study language application.
-- <img src="https://api.iconify.design/fa6-solid/book-open.svg?color=%23fbbf24" width="17" height="17" /> **DuAn_BanSachTiengNga** — Web shop Russia Book application.
-- <img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2334d399" width="17" height="17" /> **MyFistApp** — Application development project.
+- <img src="https://api.iconify.design/fa6-solid/book-open.svg?color=%23fbbf24" width="17" height="17" /> [**DuAn_BanSachTiengNga**](https://github.com/hoangdacduy10a6cl2021-cmyk/DuAn_BanSachTiengNga) — Website bán sách tiếng Nga (C#, ASP.NET Core MVC).
+- <img src="https://api.iconify.design/fa6-solid/pills.svg?color=%2334d399" width="17" height="17" /> [**PharmacyManagementAPI**](https://github.com/hoangdacduy10a6cl2021-cmyk/PharmacyManagementAPI) — Web API quản lý cửa hàng thuốc (C#).
+- <img src="https://api.iconify.design/fa6-solid/book-bookmark.svg?color=%233399ff" width="17" height="17" /> [**ThuVienAPI**](https://github.com/hoangdacduy10a6cl2021-cmyk/ThuVienAPI) — Web API quản lý thư viện (C#).
+- <img src="https://api.iconify.design/fa6-solid/chess-rook.svg?color=%23fb7185" width="17" height="17" /> [**castledefense**](https://github.com/hoangdacduy10a6cl2021-cmyk/castledefense) — Game thủ thành 2D bằng Java Swing.
+- <img src="https://api.iconify.design/fa6-solid/mug-hot.svg?color=%23a78bfa" width="17" height="17" /> [**QuanLyCoffee_BanChinh**](https://github.com/hoangdacduy10a6cl2021-cmyk/QuanLyCoffee_BanChinh) — Ứng dụng quản lý quán cà phê (C#).
+- <img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2334d399" width="17" height="17" /> [**Nhom10_ManGaApp**](https://github.com/hoangdacduy10a6cl2021-cmyk/Nhom10_ManGaApp) — Ứng dụng đọc manga (Java).
+- <img src="https://api.iconify.design/fa6-solid/globe.svg?color=%233399ff" width="17" height="17" /> [**Wedsite_QL_Sach**](https://github.com/hoangdacduy10a6cl2021-cmyk/Wedsite_QL_Sach) — Website quản lý sách (C#).
+- <img src="https://api.iconify.design/fa6-solid/book.svg?color=%23fbbf24" width="17" height="17" /> [**QL-BanSach-Nga**](https://github.com/hoangdacduy10a6cl2021-cmyk/QL-BanSach-Nga) — Quản lý bán sách (C#).
 
 ### <img src="https://api.iconify.design/fa6-solid/chart-column.svg?color=%233399ff" width="20" height="20" /> GitHub Statistics
 
