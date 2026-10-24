@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pham Duc Hoa</h1>
+<h1 align="center">Hi 👋, I'm Hoang Dac Duy</h1>
 <h3 align="center"><img src="https://api.iconify.design/fa6-solid/laptop-code.svg?color=%233399ff" width="22" height="22" /> Software Engineering Student | Yersin University</h3>
 
 <p align="center">
@@ -47,8 +47,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangdacduy10a6cl2021-cmyk/hoangdacduy10a6cl2021/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangdacduy10a6cl2021-cmyk/hoangdacduy10a6cl2021/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hoangdacduy10a6cl2021-cmyk/hoangdacduy10a6cl2021/output/github-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangdacduy10a6cl2021-cmyk/hoangdacduy10a6cl2021-cmyk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangdacduy10a6cl2021-cmyk/hoangdacduy10a6cl2021-cmyk/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hoangdacduy10a6cl2021-cmyk/hoangdacduy10a6cl2021-cmyk/output/github-snake.svg" width="100%" />
   </picture>
 </p>
